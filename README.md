@@ -60,8 +60,8 @@ This is a full-stack-ready authentication API built with [NestJS](https://nestjs
 ### 📁 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nestjs-auth-system.git
-cd nestjs-auth-system
+git clone https://github.com/shawki99/Auth-Sys-BE.git
+cd Auth-Sys-BE
 ```
 
 ---
